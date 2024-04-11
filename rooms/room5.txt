@@ -1,0 +1,56 @@
+You arrive in an underground dungeon. You see prison cells on your left and on your right. Some of them are open.
+
+1
+
+Bunker door
+A reinforced door which leads back upstairs. It seems to took the easy way in.
+room8.txt
+
+0
+
+0
+
+3
+
+Evolved Ghoul
+A ghoul which came out of a prison cell. It looks like someone was experimenting on it.
+30
+3
+10
+20
+
+Ghoul
+You see a normal ghoul inside a prison cell. Before you move any closer it breaks out.
+20
+1
+7
+10
+
+Ghost
+The ghost of an enraged guard who was keep watch of whatever happened here.
+25
+2
+8
+15
+
+1
+
+Healing potions
+Almost free healing potions.
+1
+3
+5
+
+1
+
+Trader
+An old looking man saying this is your only change to get something good.
+Iron Sword
+1
+20
+25
+
+Firebolt Scroll
+15
+25
+27

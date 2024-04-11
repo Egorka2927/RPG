@@ -1,0 +1,24 @@
+You find yourself in a huge experiment room. You see tubes and vials everywhere. You also see a person in a lab coat. He must be the one...
+
+1
+
+Exit door
+A door to your salvation.
+room14.txt
+
+0
+
+0
+
+1
+
+The Doctor
+The crazy doctor you read about.
+100
+5
+10
+50
+
+0
+
+0

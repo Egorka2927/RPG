@@ -1,0 +1,39 @@
+The hole inside the wall leads to a strange room filled with surgery tools. You can still see the blood on some of them...
+
+2
+
+Cellar Door
+A door which lead underground. You can see a trail of blood going down.
+room5.txt
+
+Wooden door
+A door which seems to lead deeper into the facility.
+room6.txt
+
+0
+
+1
+
+God blessed door
+A shining door. Maybe it has health benefits. It leads underground.
+room5.txt
+
+2
+
+Ghoul
+A ghoul which came from the cellar leaps into the room.
+20
+1
+7
+15
+
+Ghoul
+A ghoul which came from the cellar leaps into the room.
+20
+1
+7
+15
+
+0
+
+0

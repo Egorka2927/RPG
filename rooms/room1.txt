@@ -1,0 +1,17 @@
+You wake up in a dark room. You do not remember anything. You realize the only exit is an old wooden door.
+
+1
+
+Old wooden door
+The architecture seems medieval, like it belonged in a castle. It looks so old that it could break down the moment you touch it.
+room2.txt
+
+0
+
+0
+
+0
+
+0
+
+0

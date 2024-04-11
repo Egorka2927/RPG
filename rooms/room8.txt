@@ -1,0 +1,24 @@
+You enter a testing chamber. You can see old electronics scattered around. Some of them are turned on.
+
+1
+
+Mechanical door
+You need to power the door in order to open it.
+room12.txt
+
+0
+
+0
+
+1
+
+Evolved Ghoul
+An evolved ghoul destroying machines and biting cables.
+30
+4
+10
+30
+
+0
+
+0

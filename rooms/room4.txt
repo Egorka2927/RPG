@@ -1,0 +1,32 @@
+You enter a room that looks like it was used for research. You can see multiple books and research notes scattered around.
+
+2
+
+Spruce door
+You see a normal looking door in this abandoned facility. You wonder if there may be someone who can help you.
+room7.txt
+
+Hidden door
+You see something out of place on the brick wall. You realize there is a hidden door.
+room5.txt
+
+1
+
+Narrow door.
+A door too narrow for a human to use. It looks a bit suspicious. Maybe you should not try it.
+15
+
+0
+
+1
+
+Ghost
+A ghost tearing the books and research notes apart.
+25
+2
+8
+20
+
+0
+
+0

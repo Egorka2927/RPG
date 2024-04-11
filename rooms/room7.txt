@@ -1,0 +1,37 @@
+You enter someone's living quarters. You see a table with notes on it, a kitchen and a bed. A ray of hope has finally hit you.
+
+1
+
+Spruce door
+A normal door with an exit sign on it.
+room8.txt
+
+0
+
+0
+
+2
+
+Mad dog
+A starving dog that blocks the way.
+15
+1
+10
+5
+
+Mad dog
+A chained dog that looks dangerous.
+15
+1
+10
+5
+
+1
+
+Healing Potions
+There are healing potions behind bars. It says you need to pay a price to use them.
+15
+27
+40
+
+0

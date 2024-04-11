@@ -1,0 +1,38 @@
+You enter a morgue. The smell is even more intense now. You realize something is very bad and prepare for the worst.
+
+1
+
+Iron door
+A thick iron door. It is so rusty, it may crumble any second.
+room11.txt
+
+0
+
+0
+
+3
+
+Ghoul
+A ghoul trying to open the caskets.
+20
+1
+7
+15
+
+Ghoul
+A ghoul blocking the way out.
+20
+1
+7
+15
+
+Ghoul
+A ghoul eating a corpse.
+20
+1
+7
+15
+
+0
+
+0

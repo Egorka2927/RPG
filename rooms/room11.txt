@@ -1,0 +1,24 @@
+You enter a completely white room. You see a man with a surgery saw in his hand. He is the doctor's "assistant". You prepare to fight.
+
+1
+
+Laboratory door
+A white, metal door with cuts on it.
+room12.txt
+
+0
+
+0
+
+1
+
+Assistant
+A man wearing a bloody lab coat.
+50
+5
+8
+50
+
+0
+
+0

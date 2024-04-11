@@ -1,0 +1,43 @@
+You find yourself in a medical chamber. You see some of the bloody surgery tools you saw earlier. You also see a list of patients.
+
+1
+
+Glass door
+The first thing that is not completely broken is this glass door. You are surprised to find it in one piece.
+room11.txt
+
+0
+
+0
+
+2
+
+Ghost
+The ghost of a patient named Egor.
+25
+2
+8
+15
+
+Ghost
+The ghost of a patient named John.
+25
+2
+8
+15
+
+0
+
+1
+
+Weapons vendor
+A random vendor got lost here. He is willing to sell you quaility weapons.
+Greatsword
+2
+22
+30
+
+Lightning Strike Scroll
+17
+27
+35

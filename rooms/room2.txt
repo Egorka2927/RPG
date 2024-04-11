@@ -1,0 +1,32 @@
+You cannot see anything, but you can smell something bad. Once you start moving, candles light up the entire room.
+
+2
+
+Hole in the wall
+It looks like someone or something smashed the door open, creating a huge hole.
+room3.txt
+
+Iron door
+A rusty door that seems to lead to some abandoned laboratory. You try to look deeper inside, but a massive wooden table is blocking the view.
+room4.txt
+
+1
+
+Passage
+This passage looks very old and seems like it will collapse any second. It is very dangerous.
+100
+
+0
+
+1
+
+Ghoul
+The bad smell you sensed earlier came from a ghoul that was ravaging a corpse.
+20
+1
+7
+50
+
+0
+
+0

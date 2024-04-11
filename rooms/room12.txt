@@ -1,0 +1,35 @@
+You enter a run down office. You find some papers describing some horrible experiments. They have the same author: "The Doctor".
+
+1
+
+Office door
+A normal wood and glass office door.
+room13.txt
+
+0
+
+0
+
+0
+
+1
+
+Healing Potions
+There are healing potions behind bars. It says you need to pay a price to use them.
+10
+15
+25
+
+1
+
+Weapons stand
+Cheap weapons. You need coins in order to unlock them.
+Staff
+3
+17
+15
+
+Frostbite Scroll
+15
+20
+20

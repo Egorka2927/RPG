@@ -1,0 +1,41 @@
+You find yourself in a torture room. A horrible smell stings your nose, making it hard to breathe. You realize this is worse than expected.
+
+2
+
+Broken automatic door
+An automatic door. It seems to be broken. You will have to force it to pass through.
+room9.txt
+
+Stained wooden door
+A wooden door with a huge blood stain on it. The blood looks fresh...
+room10.txt
+
+0
+
+0
+
+2
+
+Ghost
+The ghost of someone who died here. It seems scared.
+25
+2
+8
+15
+
+Ghoul
+A ghoul with fresh blood all over it.
+20
+1
+7
+10
+
+1
+
+Healing Potions
+There are healing potions behind bars. It says you need to pay a price to use them.
+15
+27
+40
+
+0
