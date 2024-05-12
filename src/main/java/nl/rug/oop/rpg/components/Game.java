@@ -1,4 +1,16 @@
-package nl.rug.oop.rpg;
+package nl.rug.oop.rpg.components;
+
+import nl.rug.oop.rpg.doors.Door;
+import nl.rug.oop.rpg.doors.HealingDoor;
+import nl.rug.oop.rpg.doors.TrapDoor;
+import nl.rug.oop.rpg.interfaces.Interactable;
+import nl.rug.oop.rpg.items.Spell;
+import nl.rug.oop.rpg.items.Sword;
+import nl.rug.oop.rpg.npcs.Enemy;
+import nl.rug.oop.rpg.npcs.Healer;
+import nl.rug.oop.rpg.npcs.Trader;
+import nl.rug.oop.rpg.utils.Input;
+import nl.rug.oop.rpg.utils.Serializer;
 
 import java.io.IOException;
 import java.io.Serializable;

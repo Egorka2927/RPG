@@ -1,7 +1,13 @@
-package nl.rug.oop.rpg;
+package nl.rug.oop.rpg.doors;
+
+import nl.rug.oop.rpg.components.Game;
+import nl.rug.oop.rpg.utils.Input;
+import nl.rug.oop.rpg.components.Room;
+import nl.rug.oop.rpg.interfaces.Inspectable;
+import nl.rug.oop.rpg.interfaces.Interactable;
+import nl.rug.oop.rpg.npcs.Enemy;
 
 import java.io.Serializable;
-import java.util. *;
 
 /**
  * Door class.

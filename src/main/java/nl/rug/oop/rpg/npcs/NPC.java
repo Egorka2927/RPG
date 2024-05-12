@@ -1,4 +1,6 @@
-package nl.rug.oop.rpg;
+package nl.rug.oop.rpg.npcs;
+
+import nl.rug.oop.rpg.components.Player;
 
 import java.io.Serializable;
 

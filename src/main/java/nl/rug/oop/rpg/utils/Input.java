@@ -1,4 +1,4 @@
-package nl.rug.oop.rpg;
+package nl.rug.oop.rpg.utils;
 
 import java.io.Serializable;
 import java.util.InputMismatchException;

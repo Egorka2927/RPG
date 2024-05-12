@@ -1,4 +1,7 @@
-package nl.rug.oop.rpg;
+package nl.rug.oop.rpg.doors;
+
+import nl.rug.oop.rpg.components.Game;
+import nl.rug.oop.rpg.utils.Input;
 
 /**
  * Healing door class.

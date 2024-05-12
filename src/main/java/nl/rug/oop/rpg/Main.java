@@ -1,5 +1,7 @@
 package nl.rug.oop.rpg;
 
+import nl.rug.oop.rpg.components.Game;
+
 /**
  * Main class.
  *

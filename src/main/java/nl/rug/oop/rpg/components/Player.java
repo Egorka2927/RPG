@@ -1,4 +1,6 @@
-package nl.rug.oop.rpg;
+package nl.rug.oop.rpg.components;
+
+import nl.rug.oop.rpg.items.Weapon;
 
 import java.io.Serializable;
 import java.util.ArrayList;

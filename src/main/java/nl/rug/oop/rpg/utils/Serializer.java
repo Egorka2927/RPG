@@ -1,4 +1,6 @@
-package nl.rug.oop.rpg;
+package nl.rug.oop.rpg.utils;
+
+import nl.rug.oop.rpg.components.Room;
 
 import java.io.*;
 

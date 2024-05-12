@@ -1,4 +1,12 @@
-package nl.rug.oop.rpg;
+package nl.rug.oop.rpg.npcs;
+
+import nl.rug.oop.rpg.utils.Input;
+import nl.rug.oop.rpg.components.Player;
+import nl.rug.oop.rpg.items.Sword;
+import nl.rug.oop.rpg.items.Weapon;
+import nl.rug.oop.rpg.interfaces.Fightable;
+import nl.rug.oop.rpg.interfaces.Inspectable;
+import nl.rug.oop.rpg.interfaces.Interactable;
 
 /**
  * Enemy class.
